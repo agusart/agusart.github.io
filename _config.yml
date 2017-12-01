@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: https://instagram.fcgk6-1.fna.fbcdn.net/t51.2885-15/s640x640/sh0.08/e35/23825369_148736685771914_5607250894950236160_n.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -50,7 +50,7 @@ github: agusart
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: agus.kbk@gmail.com
 
 authors:
     johndoe:
@@ -59,12 +59,7 @@ authors:
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
