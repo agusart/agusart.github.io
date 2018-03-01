@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: https://avatars2.githubusercontent.com/u/13998938?s=400&u=dbf3540dbdbbe7e145b75ce92f351f728a8d6907&v=4
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
